@@ -4,8 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## The project is For Software Engineering Course
 
-#The project is a website for Clinical & Bioinformatics Laboratory
-# Shows the Main Info about the lab, shows available services and enable user to make an appointment online
+#
+#The project is a website for Clinical & Bioinformatics Laboratory 
+Shows the Main Info about the lab, shows available services and enable user to make an appointment online
 
 #  #Team Members:
 #1-Nouruddin Karam Gaad
